@@ -7,3 +7,6 @@
 - GMM(Gaussian Mixture Model)
 - DBSCAN
 - 군집화 실습
+    
+## 8. 텍스 분석
+- Text Classification
